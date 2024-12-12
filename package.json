@@ -11,11 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finsweet/developer-starter.git"
+    "url": "git+https://github.com/madebyunderscore/webflow-doku.git"
   },
-  "bugs": {
-    "url": "https://github.com/finsweet/developer-starter/issues"
-  },
+  "bugs": {},
   "type": "module",
   "main": "src/index.ts",
   "module": "src/index.ts",
