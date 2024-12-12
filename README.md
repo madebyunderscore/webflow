@@ -25,11 +25,11 @@ Before starting to work with this template, please take some time to read throug
 
 This template contains some preconfigured development tools:
 
-- [Typescript](https://www.typescriptlang.org/): A superset of Javascript that adds an additional layer of Typings, bringing more security and efficiency to the written code.
-- [Prettier](https://prettier.io/): Code formatting that assures consistency across all Finsweet's projects.
-- [ESLint](https://eslint.org/): Code linting that enforces industries' best practices. It uses [our own custom configuration](https://github.com/finsweet/eslint-config) to maintain consistency across all Finsweet's projects.
+- [Typescript](https://www.typescriptlang.org/): Imagine you’re building with Lego blocks. TypeScript adds labels to the blocks (like “this block is blue and square”) so you know exactly how to use them and avoid mistakes. It’s like a super-organized version of JavaScript that makes coding safer and easier to understand.
+- [Prettier](https://prettier.io/): Think of it as a robot that cleans up messy handwriting. Prettier makes sure your code looks neat and tidy in the same way every time, so everyone can easily read and understand it.
+- [ESLint](https://eslint.org/): Imagine a helpful teacher that checks your homework and makes sure you follow all the best rules for writing neatly and clearly. ESLint ensures your code follows good practices and uses a special set of rules to keep things consistent for your team.
 - [Playwright](https://playwright.dev/): Fast and reliable end-to-end testing.
-- [esbuild](https://esbuild.github.io/): Javascript bundler that compiles, bundles and minifies the original Typescript files.
+- [esbuild](https://esbuild.github.io/): Think of it as a machine that takes a messy pile of Lego instructions (TypeScript code), simplifies them, and turns them into a compact, ready-to-use guide (JavaScript) for your project.
 - [Changesets](https://github.com/changesets/changesets): A way to manage your versioning and changelogs.
 - [Finsweet's TypeScript Utils](https://github.com/finsweet/ts-utils): Some utilities to help you in your Webflow development.
 
